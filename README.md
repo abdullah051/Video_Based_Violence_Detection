@@ -33,8 +33,9 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPOSITORY_URL>
-cd Intelligent-Video-Violence-Detection
+git clone https://github.com/abdullah051/Video_Based_Violence_Detection.git
+
+cd Video_Based_Violence_Detection
 
 # Create and activate a virtual environment
 python -m venv .venv
