@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Dataset, Kaggle credentials, and training workspace
+data/
+workdir/
+.kaggle/
+kaggle.json
+
+# Generated inference outputs
+outputs/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/

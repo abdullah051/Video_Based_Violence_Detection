@@ -1,0 +1,3 @@
+# Packages required to run the lightweight project tests.
+-r requirements.txt
+pytest>=8,<10

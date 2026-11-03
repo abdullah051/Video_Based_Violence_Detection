@@ -1,0 +1,6 @@
+# Runtime dependencies for the local Gradio inference app.
+# Recommended Python: 3.10-3.12.
+tensorflow==2.19.0
+numpy>=1.26,<2.2
+opencv-python>=4.10,<5
+gradio>=5.0,<7

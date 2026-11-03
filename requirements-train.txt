@@ -1,0 +1,5 @@
+# Additional packages used by the training notebook.
+-r requirements.txt
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+kaggle>=1.6,<2
